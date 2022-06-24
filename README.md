@@ -1,4 +1,4 @@
-[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)](https://www.instagram.com/yaroslav833/)
+[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)](https://www.instagram.com/yaroslav833)
 
 ## I'm data scientists, desktop and web developer :)
 
@@ -16,4 +16,6 @@
 #### Additional skills
 ![Docker](https://img.shields.io/badge/-Docker-C1C1C1?style=for-the-badge&logo=Docker&logoColor=00D0F9) ![Photoshop](https://img.shields.io/badge/-Photoshop-C1C1C1?style=for-the-badge&logo=adobe&logoColor=00D0F9) ![Terminal](https://img.shields.io/badge/-Terminal-C1C1C1?style=for-the-badge&logo=macos&logoColor=00D0F9) ![Math](https://img.shields.io/badge/-Math-C1C1C1?style=for-the-badge&logo=numpy&logoColor=00D0F9) ![Git](https://img.shields.io/badge/-Git-C1C1C1?style=for-the-badge&logo=Git&logoColor=00D0F9) ![GitHub](https://img.shields.io/badge/-GitHub-C1C1C1?style=for-the-badge&logo=GitHub&logoColor=00D0F9) ![Linux](https://img.shields.io/badge/-Linux-C1C1C1?style=for-the-badge&logo=Linux&logoColor=00D0F9) ![Excel](https://img.shields.io/badge/-Excel-C1C1C1?style=for-the-badge&logo=Microsoft&logoColor=00D0F9) ![Word](https://img.shields.io/badge/-Word-C1C1C1?style=for-the-badge&logo=Microsoft&logoColor=00D0F9)
 
-Follow me
+## Follow me / contacts
+
+[![Instagram](https://img.shields.io/badge/-Instagram-C1C1C1?style=for-the-badge&logo=Instagram&logoColor=FF00FB)](https://www.instagram.com/yaroslav833) [![Telegram](https://img.shields.io/badge/-Telegram-C1C1C1?style=for-the-badge&logo=Telegram&logoColor=FF00FB)](https://t.me/skiffiks) [![Steam](https://img.shields.io/badge/-Steam-C1C1C1?style=for-the-badge&logo=Steam&logoColor=FF00FB)](https://steamcommunity.com/profiles/76561199092916594/) [![Gmail](https://img.shields.io/badge/-Instagram-C1C1C1?style=for-the-badge&logo=Gmail&logoColor=FF00FB)](y.kuchinskiy@gmail.com)
