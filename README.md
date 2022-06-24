@@ -1,4 +1,4 @@
-[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)](https://www.instagram.com/yaroslav833)
+[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header1.png)](https://www.instagram.com/yaroslav833)
 
 ## I'm data scientists, desktop and web developer :)
 
