@@ -19,3 +19,6 @@
 ## Follow me / contacts
 
 [![Instagram](https://img.shields.io/badge/-Instagram-383838?style=for-the-badge&logo=Instagram&logoColor=FF00FB)](https://www.instagram.com/yaroslav833) [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=Telegram&logoColor=FF00FB)](https://t.me/skiffiks) [![Steam](https://img.shields.io/badge/-Steam-383838?style=for-the-badge&logo=Steam&logoColor=FF00FB)](https://steamcommunity.com/profiles/76561199092916594/) [![Gmail](https://img.shields.io/badge/-Instagram-383838?style=for-the-badge&logo=Gmail&logoColor=FF00FB)](y.kuchinskiy@gmail.com)
+
+# Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skiffiks&show_icons=true&theme=tokyonight&icon_color=FC03F8&title_color=FC03F8&&text_color=00F7FF&border_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
