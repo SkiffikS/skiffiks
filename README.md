@@ -1,4 +1,4 @@
-[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)(https://www.instagram.com/yaroslav833/)
+[![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)](https://www.instagram.com/yaroslav833/)
 
 About me
 
