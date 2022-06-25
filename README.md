@@ -1,9 +1,9 @@
 [![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header1.png)](https://www.instagram.com/yaroslav833)
 
 
-## I'm data scientists, desktop and web developer :)
+## <span style="color: #fff;text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 20px #fff,0 0 40px #0ff,0 0 80px #0ff,0 0 90px #0ff,0 0 100px #0ff,0 0 150px #0ff;"> I'm data scientists, desktop and web developer :)</span>
 
-## Languages and Tools
+## <span style="color: #fff;text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080, 0 0 55px #ff0080, 0 0 75px #ff0080;"> Languages and Tools </span>
 
 #### Programing:
 ![python](https://img.shields.io/badge/-Python-383838?style=for-the-badge&logo=python&logoColor=00D0F9) ![JavaScript](https://img.shields.io/badge/-JavaScript-383838?style=for-the-badge&logo=JavaScript&logoColor=00D0F9) ![Java](https://img.shields.io/badge/-Java-383838?style=for-the-badge&logo=Java&logoColor=00D0F9) ![OOP](https://img.shields.io/badge/-OOP-383838?style=for-the-badge&logo=&logoColor=00D0F9)
@@ -21,7 +21,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-383838?style=for-the-badge&logo=Instagram&logoColor=FF00FB)](https://www.instagram.com/yaroslav833) [![Telegram](https://img.shields.io/badge/-Telegram-383838?style=for-the-badge&logo=Telegram&logoColor=FF00FB)](https://t.me/skiffiks) [![Steam](https://img.shields.io/badge/-Steam-383838?style=for-the-badge&logo=Steam&logoColor=FF00FB)](https://steamcommunity.com/profiles/76561199092916594/) [![Gmail](https://img.shields.io/badge/-Instagram-383838?style=for-the-badge&logo=Gmail&logoColor=FF00FB)](y.kuchinskiy@gmail.com)
 
-# Statistics
+# <span style="color: #fff;text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 20px #fff,0 0 40px #0ff,0 0 80px #0ff,0 0 90px #0ff,0 0 100px #0ff,0 0 150px #0ff;">Statistics </span>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skiffiks&show_icons=true&theme=tokyonight&icon_color=FC03F8&title_color=FC03F8&&text_color=00F7FF&border_color=00F7FF&)](https://github.com/anuraghazra/github-readme-stats)
 
