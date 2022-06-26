@@ -1,9 +1,9 @@
 [![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header2.png)](https://www.instagram.com/yaroslav833)
 
 
-# <span style="color:#00D0F9;text-shadow: 1px 1px 2px blue">I'm data scientists, desktop and web developer :) </span>
+# I'm data scientists, desktop and web developer :)
 
-# <span style="color:#FC03F8;text-shadow: 1px 1px 2px pink">Languages and Tools</span>
+# Languages and Tools
 
 ### Programing:
 ![python](https://img.shields.io/badge/-Python-383838?style=for-the-badge&text_color=FC03F8&logo=python&logoColor=00D0F9) ![JavaScript](https://img.shields.io/badge/-JavaScript-383838?style=for-the-badge&logo=JavaScript&logoColor=00D0F9) ![Java](https://img.shields.io/badge/-Java-383838?style=for-the-badge&logo=Java&logoColor=00D0F9) ![OOP](https://img.shields.io/badge/-OOP-383838?style=for-the-badge&logo=&logoColor=00D0F9)
