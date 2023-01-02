@@ -1,10 +1,9 @@
 [![Header](https://github.com/SkiffikS/skiffiks/blob/main/assets/header.png)](https://www.instagram.com/yaroslav833)
 
-<p align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-FF0070?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaroslav833) [![Telegram](https://img.shields.io/badge/-Telegram-00F0FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/skiffiks) [![Steam](https://img.shields.io/badge/-Steam-02108C?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199092916594/) [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white)](y.kuchinskiy@gmail.com)
-
-</p>
+[![Instagram](https://img.shields.io/badge/-Instagram-FF0070?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yaroslav833)&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/-Telegram-00F0FF?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/skiffiks)&nbsp;&nbsp;
+[![Steam](https://img.shields.io/badge/-Steam-02108C?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561199092916594/)&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=Gmail&logoColor=white)](y.kuchinskiy@gmail.com)&nbsp;&nbsp;
 
 ### Programing:
 ![python](https://img.shields.io/badge/-Python-383838?style=for-the-badge&text_color=FC03F8&logo=python&logoColor=00D0F9) ![JavaScript](https://img.shields.io/badge/-JavaScript-383838?style=for-the-badge&logo=JavaScript&logoColor=00D0F9) ![Java](https://img.shields.io/badge/-Java-383838?style=for-the-badge&logo=Java&logoColor=00D0F9) ![OOP](https://img.shields.io/badge/-OOP-383838?style=for-the-badge&logo=&logoColor=00D0F9)
